@@ -123,8 +123,8 @@ const data = [
   {
     name: 'Nakrętka na wentyl czarna',
     code: 'BX21110025',
-    url: 'https://b2b-amracing.pl/pl/products/nakretka-wentyla-granat-niebieski-bx16100067bl-12857?query_id=1',
-    image1: 'https://b2b-amracing.pl/pol_pl_Nakretka-wentyla-granat-niebieski-BX16100067BL-12857_1.jpg',
+    url: 'https://b2b-amracing.pl/pl/products/nakretka-wentyla-czarna-bx21110025bk-12855',
+    image1: 'https://b2b-amracing.pl/pol_pl_Nakretka-wentyla-czarna-BX21110025BK-12855_1.jpg',
   },
   {
     name: 'Nakrętka na wentyl, korona złota',
