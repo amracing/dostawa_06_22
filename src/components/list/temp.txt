@@ -4,3 +4,4 @@
     image1: '',
     image2: '',
   },
+url: '',
